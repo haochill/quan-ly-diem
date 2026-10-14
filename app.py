@@ -62,4 +62,4 @@ st.pyplot(fig)
 
 # Chân trang (Họ tên và MSSV)
 st.markdown("---")
-st.markdown("<p style='font-size: small; color: gray;'>Người tạo: Nguyễn Quốc Hào - MSSV: [Điền MSSV của bạn vào đây]</p>", unsafe_allow_html=True)
+st.markdown("<p style='font-size: small; color: gray;'>Người tạo: Nguyễn Quốc Hào - MSSV: [056208006037]</p>", unsafe_allow_html=True)
